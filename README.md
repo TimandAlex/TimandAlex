@@ -4,7 +4,7 @@ print "Hello cyberworld I'm both Tim + Alex
 - <-- we don't actually feel quadratic all the time-->
 - Goal= coding + coding
 - Set = different goals to obtain
-- Learning m.o.t. Udemy courses  
+- Learning m.o.t. Udemy courses  HTML/CSS/JS/Python/GO
 - Contact = timalexgroen@gmail.com
 - <body> have a nice day #1f604 </body>
 <!---
